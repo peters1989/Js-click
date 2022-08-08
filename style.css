@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.square{
+    height: 300px;
+    width: 300px;
+    background: green;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    
+    
+}
